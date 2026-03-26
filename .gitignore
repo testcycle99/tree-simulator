@@ -1,0 +1,12 @@
+# Unity generated files
+Library/
+Temp/
+Build/
+
+# Visual Studio cache files
+.vs/
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.user
